@@ -29,3 +29,7 @@ LED0 - ALU0
 .
 .
 LED7 - ALU7
+
+
+
+ALUFN 01xxx1 will do multiply
